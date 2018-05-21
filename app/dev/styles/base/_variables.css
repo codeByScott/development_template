@@ -1,0 +1,25 @@
+/* VARIABLES */
+$bgColor: #fefefe;
+$mainColor: #3e3e3e;
+
+/* Brand Colors */
+$shark: #1c1d23;
+$tundora: #4a4a4a;
+$white: #fefefe;
+$lavender: #c574d3;
+$smaltBlue: #478688;
+
+/* Usage */
+$color-shadow: rgba(#333, .125);
+$color-primary: $tundora;
+$color-accent: $lavender;
+$color-background-light: $white;
+$color-background-dark: $shark;
+$color-background-shade: $tundora;
+$color-text: $tundora;
+/* $color-text-weak: color($tundora, tint(25%));
+$color-text-strong: color($tundora, shade(25%)); */
+$color-text-link: $lavender;
+/* $color-text-link-visited: color($lavender, tint(25%));
+$color-text-link-hover: color($lavender, shade(25%)); */
+$color-border: $tundora;

@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: $color-text;
+  background: $color-background-light;
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
